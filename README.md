@@ -14,4 +14,4 @@ Wikipedia
 - http://en.wikipedia.org/wiki/Open_Workbench
 - http://de.wikipedia.org/wiki/Open_Workbench
 
-Die Dokumente des GPM-Transfernachweises und die Open Workbench - Projektdateien sind unter der "Creative Commons Attribution-ShareAlike 4.0 International License" veröffentlicht. 
+Die Dokumente des eingereichen GPM-Transfernachweises und die Open Workbench - Projektdateien sind unter der "Creative Commons Attribution-ShareAlike 4.0 International License" veröffentlicht. 
